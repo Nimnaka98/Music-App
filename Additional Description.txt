@@ -1,0 +1,21 @@
+```Music Application```
+
+This Python script implements a simple command-line music application using the pygame library. It allows users to create a playlist, add and remove songs, and play them. The application demonstrates basic functionalities such as loading and playing MP3 files.
+
+Features:
+
+- Add songs to the playlist
+
+- Remove songs from the playlist
+
+- Display the current playlist
+
+- Play a selected song
+
+Usage:
+
+Install the required library:
+
+"pip install pygame"
+
+Run the script and follow the on-screen instructions to interact with the music application.
